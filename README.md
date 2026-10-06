@@ -20,6 +20,7 @@ The goal of this project is to investigate SRAM memory-cell design, transistor s
 * Compare pre-layout and post-layout performance
 ## Tools
 
+*LtSpice
 * NGSpice
 * SKY130 PDK
 * Magic
