@@ -32,10 +32,10 @@ The goal of this project is to investigate SRAM memory-cell design, transistor s
 
 **In Progress**
 
-* [ ] 6T SRAM schematic
+* [x] 6T SRAM schematic
 * [ ] Hold simulation
-* [ ] Read simulation
-* [ ] Write simulation
+* [x] Read simulation
+* [x] Write simulation
 * [ ] Transistor sizing
 * [ ] SNM analysis
 * [ ] PVT analysis
