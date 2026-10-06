@@ -18,7 +18,6 @@ The goal of this project is to investigate SRAM memory-cell design, transistor s
 * Perform DRC/LVS verification
 * Extract parasitics
 * Compare pre-layout and post-layout performance
-* 
 ## Tools
 
 * NGSpice
